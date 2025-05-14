@@ -51,7 +51,7 @@ Using RFM metrics and K-means clustering (k=4), I identified four customer segme
 - Automate RFM updates with a data pipeline.
 
 ## Contact
-Built by Deji Felix. Connect with me on [LinkedIn](https://www.linkedin.com/in/deji-felix-0ab880258) or email (iamerys11@gmail.com) for questions or collabs!
+Built by Deji Felix. Connect with me on [LinkedIn](https://www.linkedin.com/in/deji-felix-0ab880258) or [email](iamerys11@gmail.com) for questions or collabs!
 
 ---
 ![Cluster Scatterplot](./visuals/cluster_frequency_vs_monetary.png)
