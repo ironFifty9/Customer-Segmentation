@@ -1,4 +1,4 @@
-# Customer Segmentation for E-commerce
+# Customer Segmentation for E-commerce Organization
 
 ## Overview
 This project analyzes customer purchase data from a UK-based online retailer (2010–2011) to segment customers into actionable groups using RFM (Recency, Frequency, Monetary) analysis and K-means clustering. The goal is to help the business tailor marketing strategies, boost retention, and maximize revenue. Built as a portfolio project to showcase data analysis skills for a junior data analyst role.
